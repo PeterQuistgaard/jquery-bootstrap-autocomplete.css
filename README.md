@@ -1,6 +1,8 @@
 # jquery-bootstrap-autocomplete.css
 jQuery UI Autocomplete Bootstrap 3 Style
 
+![Demo](https://raw.githubusercontent.com/PeterQuistgaard/jquery-bootstrap-autocomplete.css/master/autocomplete.png)
+
 
 
 
@@ -15,7 +17,9 @@ jQuery UI Autocomplete Bootstrap 3 Style
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
     <link href="lib/jquery-ui/themes/base/menu.css" rel="stylesheet" />
     <link href="lib/jquery-ui/themes/base/autocomplete.css" rel="stylesheet" />
+    
     <link href="css/jquery-bootstrap-autocomplete.css" rel="stylesheet" />
+    
 </head>
 <body>
     <div class="container">
