@@ -3,7 +3,7 @@
  * menu.css
  * autocomplete.css
  *
- * Styel autocomplete bootstrap look a like
+ * Style autocomplete bootstrap look a like
  * Use instead of a jquery-ui theme!
  */
 
@@ -16,7 +16,6 @@
     
     .ui-helper-hidden-accessible {
         display: none;
-
     }
 
     .ui-autocomplete .ui-state-active {
