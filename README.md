@@ -15,8 +15,8 @@ jQuery UI Autocomplete Bootstrap 3 Style
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>jQuery UI Autocomplete</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
-    <link href="lib/jquery-ui/themes/base/menu.css" rel="stylesheet" />
-    <link href="lib/jquery-ui/themes/base/autocomplete.css" rel="stylesheet" />
+    <link rel="stylesheet" href="lib/jquery-ui/themes/base/menu.css" />
+    <link rel="stylesheet" href="lib/jquery-ui/themes/base/autocomplete.css" />
     
     <link href="css/jquery-bootstrap-autocomplete.css" rel="stylesheet" />
     
