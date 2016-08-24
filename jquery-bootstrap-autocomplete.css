@@ -1,0 +1,28 @@
+﻿/*!
+ * Dependencies:
+ * menu.css
+ * autocomplete.css
+ *
+ * Styel autocomplete bootstrap look a like
+ * Use instead of a jquery-ui theme!
+ */
+
+    .ui-autocomplete {
+        background-color: #fff;
+        border: 1px solid #66AFE9;
+        border-radius: 4px;
+        box-shadow: 0 0 8px rgba(102,175,233,.6);
+    }
+    
+    .ui-helper-hidden-accessible {
+        display: none;
+
+    }
+
+    .ui-autocomplete .ui-state-active {
+        font-weight: normal;
+        margin: -1px;
+        background-color: #4289cc; 
+        color: white; 
+        border-radius: 4px;
+    }
