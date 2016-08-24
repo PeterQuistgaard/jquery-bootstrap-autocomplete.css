@@ -1,14 +1,17 @@
 # jquery-bootstrap-autocomplete.css
 jQuery UI Autocomplete Bootstrap 3 Style
 
-...
+
+
+
+```html
+
 <!doctype html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>jQuery UI Autocomplete</title>
-
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
     <link href="lib/jquery-ui/themes/base/menu.css" rel="stylesheet" />
     <link href="lib/jquery-ui/themes/base/autocomplete.css" rel="stylesheet" />
@@ -61,4 +64,5 @@ jQuery UI Autocomplete Bootstrap 3 Style
     </script>
 </body>
 </html>
-...
+
+```
