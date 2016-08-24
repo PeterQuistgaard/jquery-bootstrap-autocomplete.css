@@ -18,7 +18,7 @@ jQuery UI Autocomplete Bootstrap 3 Style
     <link rel="stylesheet" href="lib/jquery-ui/themes/base/menu.css" />
     <link rel="stylesheet" href="lib/jquery-ui/themes/base/autocomplete.css" />
     
-    <link href="css/jquery-bootstrap-autocomplete.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/jquery-bootstrap-autocomplete.css" />
     
 </head>
 <body>
